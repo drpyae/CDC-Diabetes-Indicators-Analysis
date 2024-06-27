@@ -3,9 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-data = pd.read_csv('../data/diabetes.csv')
-
-
+data = pd.read_csv('CDC-Diabetes-Indicators-Analysis/data/diabetes.csv')
 # Display basic information about the dataset
 print(data.info())
 print(data.describe())
