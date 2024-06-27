@@ -5,6 +5,7 @@ import seaborn as sns
 # Load the dataset
 data = pd.read_csv('../data/diabetes.csv')
 
+
 # Display basic information about the dataset
 print(data.info())
 print(data.describe())
