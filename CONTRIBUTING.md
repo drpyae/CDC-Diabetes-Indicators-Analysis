@@ -27,11 +27,11 @@ git checkout -b your-feature-branch-name
 ### 4. Make Changes
 Make your changes to the codebase. Follow these guidelines while making changes:
 
-*Ensure that your code adheres to the project's coding standards.
-*Write clear, concise commit messages.
-*Include comments in your code where necessary.
-*Add or update tests to cover your changes.
-*Update documentation if applicable.
+* Ensure that your code adheres to the project's coding standards.
+* Write clear, concise commit messages.
+* Include comments in your code where necessary.
+* Add or update tests to cover your changes.
+* Update documentation if applicable.
 
 ### 5. Install Dependencies
 If you haven't already, set up your environment and install dependencies:
