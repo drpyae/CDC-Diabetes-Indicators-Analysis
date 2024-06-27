@@ -49,11 +49,16 @@ The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Diabetes
    ```bash
    git clone https://github.com/your-username/CDC-Diabetes-Indicators-Analysis.git
    cd CDC-Diabetes-Indicators-Analysis
+   ```
 
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
-    Add the following libraries to requirements.txt to install
+    ```bash
+    python -m venv venv
+    ```
+    ```bash
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    pip install -r requirements.txt
+    ```
+    Add the following libraries to *requirements.txt* to install
     pandas
     numpy
     matplotlib
