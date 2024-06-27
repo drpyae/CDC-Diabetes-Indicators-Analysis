@@ -24,9 +24,14 @@ The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Diabetes
 │   ├── data_preprocessing.py
 │   ├── train_model.py
 │   └── evaluate_model.py
+├── .DS_Store
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── LICENSE
 ├── README.md
+├── SECURITY.md
 ├── requirements.txt
-└── .gitignore
+
 ```
 
 
