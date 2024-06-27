@@ -9,16 +9,24 @@ This project analyzes the CDC Diabetes Indicators dataset from the UCI Machine L
 The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008).
 
 ## Repository Structure
-|-----data
-  |---diabetes.csv
-|-----notebooks
-  |---EDA.py (you can do any exploratory data analysis method you want)
-|-----scripts
-  |---data_preprocessing.py
-  |---train_model.py
-  |---evaluate_model.py
-|-----README.md
-|-----requirements.txt
+├── data
+│   ├── diabetes.csv
+│   ├── X_train.csv
+│   ├── X_test.csv
+│   ├── y_train.csv
+│   └── y_test.csv
+├── models
+│   └── logistic_regression_model.pkl
+├── notebooks
+│   └── EDA.py
+├── scripts
+│   ├── data_preprocessing.py
+│   ├── train_model.py
+│   └── evaluate_model.py
+├── README.md
+├── requirements.txt
+└── .gitignore
+
 
 
 ## Getting Started
