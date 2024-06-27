@@ -9,6 +9,7 @@ This project analyzes the CDC Diabetes Indicators dataset from the UCI Machine L
 The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008).
 
 ## Repository Structure
+```bash
 ├── data
 │   ├── diabetes.csv
 │   ├── X_train.csv
@@ -26,6 +27,7 @@ The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Diabetes
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 
 
@@ -59,7 +61,7 @@ pip install -r requirements.txt
 Open the 'EDA.py' script in VSCode.
 Run the script to perform exploratory data analysis.
 
-###Contributing
+### Contributing
 
 Feel free to submit issues or pull requests if you find any bugs or have suggestions for improvements.
 
