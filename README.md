@@ -12,8 +12,11 @@ The dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/Diabetes
 |-----data
   |---diabetes.csv
 |-----notebooks
-  |---EDA.py
+  |---EDA.py (you can do any exploratory data analysis method you want)
 |-----scripts
+  |---data_preprocessing.py
+  |---train_model.py
+  |---evaluate_model.py
 |-----README.md
 |-----requirements.txt
 
