@@ -82,7 +82,7 @@ If you find a bug or have a feature request, please open an issue on GitHub. Inc
 
 # Code of Cunduct
 Please adhere to the `Code of Conduct` in all interactions with the project.
-
+see 'CODE_OF_CONDUCT.md'
 Thank you for your contributions!
 
 
